@@ -1,5 +1,5 @@
 # hello-world
-My first test repository
+My first repository
 
 This is my first commit :)
 Branch A

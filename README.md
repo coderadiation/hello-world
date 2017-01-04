@@ -2,4 +2,4 @@
 My first repository
 
 This is my first commit :)
-Branch A
+This is addition from branch A
